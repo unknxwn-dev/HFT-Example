@@ -1,3 +1,4 @@
+"""
 Standalone Bybit Market Making Bot - Avellaneda-Stoikov Strategy
 
 No external config files needed - everything is hardcoded for simplicity
